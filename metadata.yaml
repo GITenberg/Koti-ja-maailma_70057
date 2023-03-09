@@ -1,0 +1,39 @@
+_repo: Koti-ja-maailma_70057
+_version: 0.0.1
+alternative_title: Ghare-baire. Finnish
+contributor:
+  translator:
+    agent_name: Hollo, J. A. (Juho Aukusti)
+    alias: Hollo, Juho Aukusti
+    birthdate: 1885
+    deathdate: 1967
+    gutenberg_agent_id: '47352'
+    url: http://www.gutenberg.org/2009/agents/47352
+    wikipedia: https://fi.wikipedia.org/wiki/J._A._Hollo
+creator:
+  author:
+    agent_name: Tagore, Rabindranath
+    birthdate: 1861
+    deathdate: 1941
+    gutenberg_agent_id: '942'
+    url: http://www.gutenberg.org/2009/agents/942
+    wikipedia: https://en.wikipedia.org/wiki/Rabindranath_Tagore
+description: ''
+gutenberg_issued: '2023-02-17'
+identifiers:
+  gutenberg: '70057'
+language: fi
+pgterms:marc905: 20221125051454tagore
+pgterms:marc906: '1937'
+pgterms:marc907: FI
+production_note: Tapio Riikonen
+publication_note: '  $aFinland :$bOtava, $c1937.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'India -- History -- Autonomy and independence movements -- Fiction'
+- !lcc 'PK'
+- GITenberg
+title: Koti ja maailma
+url: http://www.gutenberg.org/ebooks/70057
